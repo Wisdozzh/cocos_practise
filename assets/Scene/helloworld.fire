@@ -84,13 +84,13 @@
     "_active": true,
     "_components": [
       {
+        "__id__": 12
+      },
+      {
         "__id__": 13
       },
       {
         "__id__": 14
-      },
-      {
-        "__id__": 15
       }
     ],
     "_prefab": null,
@@ -469,9 +469,6 @@
     "_components": [
       {
         "__id__": 11
-      },
-      {
-        "__id__": 12
       }
     ],
     "_prefab": null,
@@ -557,18 +554,6 @@
     "_id": "74saCdhnNHjbyDsdd1bTTt"
   },
   {
-    "__type__": "280c3rsZJJKnZ9RqbALVwtK",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 10
-    },
-    "_enabled": true,
-    "label": null,
-    "text": "你好， 世界！",
-    "_id": "c3B2HXh8xK04+NEoe2oRba"
-  },
-  {
     "__type__": "cc.Canvas",
     "_name": "",
     "_objFlags": 0,
@@ -596,7 +581,7 @@
     "label": {
       "__id__": 11
     },
-    "text": "Hello, World!",
+    "text": "你好，世界！",
     "_id": "dcGJ+cSA5D7qNtScKfLjJJ"
   },
   {
